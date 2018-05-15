@@ -1,3 +1,17 @@
+/*!
+
+ =========================================================
+ * Awesome Landing Page - v1.2.2
+ =========================================================
+ 
+ * Product Page: https://www.creative-tim.com/product/awesome-landing-page
+ * Copyright 2017 Creative Tim (http://www.creative-tim.com)
+ * Licensed under MIT (https://github.com/creativetimofficial/awesome-landing-page/blob/master/LICENSE.md)
+ 
+ =========================================================
+ 
+ * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+ */
 
 /*           Font Smoothing      */
 h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, p, .navbar, .brand, .btn-simple, a, .td-name, td {
@@ -638,31 +652,55 @@ a:focus, a:active {
   opacity: 1;
 }
 
-.btn-instagram {
+.btn-twitter {
   border-color: #55acee;
   color: #55acee;
 }
-.btn-instagram:hover, .btn-instagram:focus, .btn-instagram:active, .btn-instagram.active, .open > .btn-instagram.dropdown-toggle {
+.btn-twitter:hover, .btn-twitter:focus, .btn-twitter:active, .btn-twitter.active, .open > .btn-twitter.dropdown-toggle {
   background-color: transparent;
   color: #55acee;
   border-color: #55acee;
   opacity: 1;
 }
-.btn-instagram:disabled, .btn-instagram[disabled], .btn-instagram.disabled {
+.btn-twitter:disabled, .btn-twitter[disabled], .btn-twitter.disabled {
   background-color: transparent;
   border-color: #55acee;
 }
-.btn-instagram.btn-fill {
+.btn-twitter.btn-fill {
   color: white;
   background-color: #55acee;
   opacity: 0.9;
 }
-.btn-instagram.btn-fill:hover, .btn-instagram.btn-fill:focus, .btn-instagram.btn-fill:active, .btn-instagram.btn-fill.active, .open > .btn-instagram.btn-fill.dropdown-toggle {
+.btn-twitter.btn-fill:hover, .btn-twitter.btn-fill:focus, .btn-twitter.btn-fill:active, .btn-twitter.btn-fill.active, .open > .btn-twitter.btn-fill.dropdown-toggle {
   background-color: #55acee;
   color: white;
   opacity: 1;
 }
 
+.btn-pinterest {
+  border-color: #cc2127;
+  color: #cc2127;
+}
+.btn-pinterest:hover, .btn-pinterest:focus, .btn-pinterest:active, .btn-pinterest.active, .open > .btn-pinterest.dropdown-toggle {
+  background-color: transparent;
+  color: #cc2127;
+  border-color: #cc2127;
+  opacity: 1;
+}
+.btn-pinterest:disabled, .btn-pinterest[disabled], .btn-pinterest.disabled {
+  background-color: transparent;
+  border-color: #cc2127;
+}
+.btn-pinterest.btn-fill {
+  color: white;
+  background-color: #cc2127;
+  opacity: 0.9;
+}
+.btn-pinterest.btn-fill:hover, .btn-pinterest.btn-fill:focus, .btn-pinterest.btn-fill:active, .btn-pinterest.btn-fill.active, .open > .btn-pinterest.btn-fill.dropdown-toggle {
+  background-color: #cc2127;
+  color: white;
+  opacity: 1;
+}
 .border-top{
   border-top: 1px solid #e2e2e2;
 }
